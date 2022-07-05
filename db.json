@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "myNinja" : {
+    "name": "Naruto",
+    "surname": "Uzumaki"
+    "age": "12"
   }
 }
