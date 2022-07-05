@@ -1,7 +1,7 @@
 {
-  "myNinja" : {
+  "ninja": {
     "name": "Naruto",
     "surname": "Uzumaki"
-    "age": "12"
+    "age": 12
   }
 }
