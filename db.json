@@ -1,4 +1,4 @@
 {
- name: "Naruto",
- surname: "Uzumaki"
+ "name": "Naruto",
+ "surname": "Uzumaki"
 }
